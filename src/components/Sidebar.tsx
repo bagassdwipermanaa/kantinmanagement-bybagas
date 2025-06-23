@@ -64,7 +64,7 @@ const Sidebar: React.FC<SidebarProps> = ({ activeTab, onTabChange }) => {
       {/* Footer */}
       <div className="p-4 border-t border-gray-200">
         <div className="text-center text-sm text-gray-500">
-          © 2024 Bagas Dwi Permana
+          © 2025 Bagas Dwi Permana
         </div>
       </div>
     </div>
